@@ -165,7 +165,7 @@ const handleSubmit = (e: React.FormEvent) => {
                   <Github className="h-5 w-5 text-gray-300" />
                 </a>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.naukri.com/mnjuser/profile"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 bg-gray-800 rounded-full hover:bg-gray-700 transition-colors duration-300"
