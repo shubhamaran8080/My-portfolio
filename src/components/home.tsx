@@ -21,7 +21,7 @@ const Home = () => {
     { name: "CSS", icon: "/icons/css-3-svgrepo-com.svg", color: "bg-violet-500" },
     { name: "JavaScript", icon: "/icons/javascript.svg", color: "bg-pink-400" },
     { name: "React", icon: "/icons/reactjs.svg", color: "bg-yellow-400" },
-    { name: "Sql", icon: "/icons/sql.svg", color: "bg-red-500" },
+    { name: "Sql", icon: "/My-portfolio/icons/sql.svg", color: "bg-red-500" },
     { name: "GitHub", icon: "/icons/github.svg", color: "bg-orange-700" },
     { name: "Tailwind", icon: "/icons/tailwind.svg", color: "bg-yellow-600" },
     { name: "MySql", icon: "/icons/mysql.svg", color: "bg-purple-500" },
