@@ -278,7 +278,7 @@ const Home = () => {
                     <Github className="h-5 w-5" />
                   </a>
                   <a
-                    href="https://github.com/shubhamaran8080"
+                    href="https://www.naukri.com/mnjuser/profile"
                     className="bg-[#0d1117] p-3 rounded-full hover:bg-purple-600 transition-colors"
                   >
                     <Briefcase className="h-5 w-5" />
